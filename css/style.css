@@ -1,0 +1,43 @@
+body {
+    width: 80%;
+    margin: auto;
+    font-family: fantasy;
+}
+
+caption, table, td, th {
+    border: 3px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+}
+
+caption {
+    border-bottom: none;
+    font-weight: bold;
+    font-size: 3rem;
+    background-color: rgb(118, 222, 118);
+}
+
+table {
+    margin: 20px;
+    font-size: 2rem;
+    overflow: auto;
+}
+
+th {
+    font-size:larger ;
+    background-color: rgb(210, 247, 210);
+}
+
+/* tr:nth-child(2n-1) {
+    background-color: rgb(222, 238, 239);
+} */
+
+#Project {
+    background-color: rgb(189, 249, 99);
+}
+
+
+
+
+
+
